@@ -1,0 +1,62 @@
+1)What do you understand by Digital Analytics? Give a real-life example.
+Answer: Digital Analytics means collecting and analyzing data from digital platforms like websites, apps, or social media to understand user                          behavior and improve business performance.
+it helps businesses understand questions for example:
+1.How users are visiting the website
+2.What pages they are spending time on
+and etc,.
+A real-life example :
+The company is running ads on Instagram and Google. Using Digital Analytics, they can track:
+1.How many users came from Instagram
+2.How many users added products to the cart
+3.How many users actually purchased
+
+
+2)Explain the Marketing Funnel with a clear example.
+Answer: marketing funnel explains the journey of a customer from first discovering a product to finally purchasing
+it consist of three steps:
+1. Acquisition: Building Activeness and awareness of the product
+2. Engagement: Engage people to the product
+3. Monetization & retention: How many user became customers and how often they are buying the product or how often then are visiting the website
+
+3)How does Google Analytics collect and process data? Explain Tag and Tag Manager.
+Answer: Google Analytics collects data through a tracking code that is added to a website.
+When a user visits the website, this tracking code records user activities such as:
+
+1.Page views
+2.Clicks
+3.Session duration
+4.Device type
+5.Traffic source
+
+3Q)2nd part)What is a Tag?
+A tag is a small piece of code used for tracking user actions. 
+For example:
+1.Tracking button clicks
+2.Tracking form submissions
+
+What is Google Tag Manager?
+Google Tag Manager, also called GTM, These belongs to GA4 and these is a latest version which is launched on 2011 to 2013 time these is a tool that helps manage all these tags without changing website code repeatedly.
+Instead of asking developers again and again to add tracking codes, marketers can manage tracking through GTM easily.
+For example, if a company wants to track how many users clicked the 'Buy Now' button & 'Add cart', they can configure that tag inside GTM.
+
+4Q)If a website has Google Analytics implemented and you open it from Google Chrome and Internet Explorer at the same time, will you be counted as one user or two users?
+Answer: here in my point of view the google Analytics will mostly consider it as two separate users.
+
+This is because different browsers usually store different cookies and browser data. Google Analytics identifies users mainly through cookies and browser identifiers. So even if the same person opens the website at the same time using Chrome and Internet Explorer, Google Analytics may treat them as different users because both browsers have separate storage and sessions
+
+5Q)What is a Session? Explain clearly with an example?
+Answer: session in Google Analytics is a group of user interactions that happen within a specific time period on a website.
+
+A session starts when a user enters the website and ends after inactivity, usually after 30 minutes by default it starts as a new session.
+
+For example:
+
+Suppose I visit an e-commerce website at 10:00 AM.
+
+1.Open a website
+2.Search for shoes
+3.Open product pages
+4.Add one product to the cart
+5.Spend around 15 minutes browsing All these activities are considered part of one session.
+
+If I leave the website and come back again after more than 30 minutes, then Google Analytics starts a new session. So basically, a session represents one complete visit of a user within a certain timeframe.
